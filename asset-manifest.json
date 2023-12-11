@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hws2/static/css/main.93930c45.css",
-    "main.js": "/hws2/static/js/main.9a700f34.js",
-    "static/js/787.66cb4309.chunk.js": "/hws2/static/js/787.66cb4309.chunk.js",
-    "static/media/avatar.png": "/hws2/static/media/avatar.d947cb9d0d13765666b6.png",
-    "index.html": "/hws2/index.html",
-    "main.93930c45.css.map": "/hws2/static/css/main.93930c45.css.map",
-    "main.9a700f34.js.map": "/hws2/static/js/main.9a700f34.js.map",
-    "787.66cb4309.chunk.js.map": "/hws2/static/js/787.66cb4309.chunk.js.map"
+    "main.css": "/homework_vtornik_dopcommenty/static/css/main.93930c45.css",
+    "main.js": "/homework_vtornik_dopcommenty/static/js/main.3b12cb61.js",
+    "static/js/787.66cb4309.chunk.js": "/homework_vtornik_dopcommenty/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/homework_vtornik_dopcommenty/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/homework_vtornik_dopcommenty/index.html",
+    "main.93930c45.css.map": "/homework_vtornik_dopcommenty/static/css/main.93930c45.css.map",
+    "main.3b12cb61.js.map": "/homework_vtornik_dopcommenty/static/js/main.3b12cb61.js.map",
+    "787.66cb4309.chunk.js.map": "/homework_vtornik_dopcommenty/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93930c45.css",
-    "static/js/main.9a700f34.js"
+    "static/js/main.3b12cb61.js"
   ]
 }
